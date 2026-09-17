@@ -1,0 +1,6 @@
+{
+  "name": "HealthPulse",
+  "description": "Mobile healthcare monitoring application for vital signs tracking, camera PPG heart rate estimation, abnormal alert engine, medication reminders, and warm conversational health assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
